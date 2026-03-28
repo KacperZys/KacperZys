@@ -19,10 +19,6 @@ When I'm not coding I'm probably listening to music or playing piano.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperZys&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-zys-b04ba024b/)
