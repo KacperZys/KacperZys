@@ -1,53 +1,29 @@
-# 👋 Hi, I’m Kacper Zys
+# Hey, I'm Kacper 👋
 
-I’m a student learning **C#** and software development with the goal of working professionally in the future.  
-Currently, I’m working on **console applications** to build a strong foundation, but I’m also interested in **web apps, games, and IoT**—so who knows where my journey will take me!  
+I'm a CS student from Poznań, Poland, with a background in C# and a 
+growing obsession with low-level programming and embedded systems. 
+I like understanding how things work close to the hardware.
 
-- 🌱 Learning from [The C# Academy](https://www.thecsharpacademy.com) and the book *C# Player’s Guide*  
-- 💬 Ask me about: **C#**, programming concepts, and beginner-friendly software projects  
-- 📫 Contact me: [Email](mailto:kacperzys13@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kacper-zys-b04ba024b/)  
-- 🎸 Fun fact: I enjoy **playing electric guitar** and listening to music in my free time  
+When I'm not coding I'm probably listening to music or playing piano.
 
----
+## 🔧 Currently learning
+- **C** — working through fundamentals with embedded systems in mind
+- Exploring how software interacts with hardware at a low level
 
 ## 🛠 Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 💻 Projects
-
-### ConsoleHabitLogger
-**C# Console Application** to log habits and track progress.  
-
-**Features:**
-- Automatically creates a SQLite database and habit tables if not present  
-- Insert, update, delete, and view habit records  
-- Navigate through the program using a console menu  
-- Includes error handling to prevent crashes  
-
-**Repository:** [ConsoleHabitLogger](https://github.com/YOUR_USERNAME/ConsoleHabitLogger)  
-
-### Other Projects
-Currently working through **C# Academy exercises and projects** to strengthen my coding skills.
-
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## 📈 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperZys&layout=compact&theme=radical)](https://github.com/KacperZys/github-readme-stats)
+![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperZys&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+## 📫 Contact
 
-## 🎵 Fun Extras
-
-- 🎸 I love music and playing the electric guitar  
-- ⚡ Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-zys-b04ba024b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacperzys13@gmail.com)
