@@ -2,18 +2,16 @@
 
 I'm a CS student from Poznań, Poland, with a background in C# and a 
 growing obsession with low-level programming and embedded systems. 
-I like understanding how things work close to the hardware.
+I like understanding how things work under the hood.
 
 When I'm not coding I'm probably listening to music or playing piano.
 
 ## 🔧 Currently learning
-- **C** — working through fundamentals with embedded systems in mind
-- Exploring how software interacts with hardware at a low level
+- **C#**
 
 ## 🛠 Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
